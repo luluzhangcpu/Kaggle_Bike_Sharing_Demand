@@ -5,14 +5,14 @@
 
 * 此为Kaggle平台上，经典项目--关于对共享单车的租赁量预测；
 
-* 数据来源--Kaggle上公开数据；
+* 数据集地址：https://www.kaggle.com/c/bike-sharing-demand/data
 
 * 该项目包含但不限于对参与者在，缺失数据的补充、特征变换、可视化展示、特征工程、各大回归模型（如，GradientBoostingRegressor、RandomForestRegressor等）调参、训练、模型评估多方面的训练；
 
-* 项目地址所在：https://www.kaggle.com/code/yougebuding/kaggle-bike-predict
+* Kaggle原项目地址：https://www.kaggle.com/code/yougebuding/kaggle-bike-predict
 
-* 本项目，在Kaggle上，评价标准为RMSLE(均方根对数误差)；即，分数越低，准确率越高；
+* 最终择选到的模型，5折交叉准确率 r2决定系数超90%，模型较适合；
 
-* 最终择选到的模型，在Kaggle上得分为 0.40566； 由于此项目已截止，无法看到实时排名；
+* Kaggle上，本项目评价标准为RMSLE(均方根对数误差)；即，分数越低，准确率越高；提交后得分为 0.40566；
 
 * 通过历史记录，可知在参与的3200+个team中，排名约 266名，即，top8% 左右；
