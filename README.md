@@ -3,7 +3,7 @@
 
 * 为加强对机器学习中各大算法应用，实际参与Kaggle平台上的项目，是比较快速的方式；
 
-* 此为Kaggle平台上，经典项目--关于对共享单车的租赁量预测；
+* 此为Kaggle平台上，经典回归类项目--关于对共享单车的租赁量预测；
 
 * 数据集地址：https://www.kaggle.com/c/bike-sharing-demand/data
 
