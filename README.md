@@ -11,6 +11,8 @@
 
 * Kaggle原项目地址：https://www.kaggle.com/code/yougebuding/kaggle-bike-predict
 
+* 知乎笔记地址：https://zhuanlan.zhihu.com/p/734739166
+
 * 最终择选到的模型，5折交叉准确率 r2决定系数超90%，模型较适合；
 
 * Kaggle上，本项目评价标准为RMSLE(均方根对数误差)；即，分数越低，准确率越高；提交后得分为 0.40566；
